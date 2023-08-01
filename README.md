@@ -2,8 +2,8 @@
 - 👀 I’m interested in games development, learning spoken languages
 - 🌱 I’m currently learning programming and development in Unity, and C#. Learning to speak and read Dutch and Japanese.
 - 📫 How to reach me:
- - https://twitter.com/Sapphirris
- - https://mastodon.gamedev.place/@Sapphire_PaperCactus
+> - https://twitter.com/Sapphirris
+> - https://mastodon.gamedev.place/@Sapphire_PaperCactus
 
 Current Project Website: https://papercactusgames.com/
 
