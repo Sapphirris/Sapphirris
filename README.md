@@ -1,19 +1,8 @@
-👋 Hi, I’m @Sapphirris, Street names Robert or Sapphire. Pronouns are presentation dependant (but I won't hurt you for messing them up).
+👋 Hi, I’m @Sapphirris, or Sapphire. She/Her or They/Them.
 
 ---
-I’m interested in games development, learning spoken languages.
+I’m interested in games development, and learning spoken languages.
 
-I’m currently learning programming and development in Unity, and C#. Learning to speak and read Dutch and Japanese.
+Gradually becoming proficient in C#, as well as learning to develop across Unreal, Unity, and Godot.
 
 ---
-📫 How to reach me:
-> - https://twitter.com/Sapphirris
-> - https://mastodon.gamedev.place/@Sapphire_PaperCactus
-
-Current Project Website: https://papercactusgames.com/
-
-<!---
-- 💞️ I’m looking to collaborate on ...
-Sapphirris/Sapphirris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
